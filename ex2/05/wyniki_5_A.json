@@ -1,0 +1,371 @@
+MongoDB shell version v5.0.8
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("dc8dc004-fc63-45f2-bca2-e27b3a1bd6cd") }
+MongoDB server version: 5.0.8
+[
+	{
+		"Average balance" : 21008.95,
+		"SUM balance" : 5252.2375,
+		"currency" : "CLP"
+	},
+	{
+		"Average balance" : 9971.28,
+		"SUM balance" : 4985.64,
+		"currency" : "NIO"
+	},
+	{
+		"Average balance" : 3788.95,
+		"SUM balance" : 3788.95,
+		"currency" : "KZT"
+	},
+	{
+		"Average balance" : 23242,
+		"SUM balance" : 4648.4,
+		"currency" : "ARS"
+	},
+	{
+		"Average balance" : 24946.23,
+		"SUM balance" : 4157.705,
+		"currency" : "NGN"
+	},
+	{
+		"Average balance" : 4874.69,
+		"SUM balance" : 4874.69,
+		"currency" : "PYG"
+	},
+	{
+		"Average balance" : 4759.07,
+		"SUM balance" : 4759.07,
+		"currency" : "XPF"
+	},
+	{
+		"Average balance" : 5569.56,
+		"SUM balance" : 5569.56,
+		"currency" : "ZMW"
+	},
+	{
+		"Average balance" : 6418.27,
+		"SUM balance" : 6418.27,
+		"currency" : "VUV"
+	},
+	{
+		"Average balance" : 5579.3,
+		"SUM balance" : 5579.3,
+		"currency" : "EGP"
+	},
+	{
+		"Average balance" : 13379.82,
+		"SUM balance" : 6689.91,
+		"currency" : "KRW"
+	},
+	{
+		"Average balance" : 13712.5,
+		"SUM balance" : 4570.833333333333,
+		"currency" : "YER"
+	},
+	{
+		"Average balance" : 4276.56,
+		"SUM balance" : 4276.56,
+		"currency" : "RSD"
+	},
+	{
+		"Average balance" : 21200.88,
+		"SUM balance" : 5300.22,
+		"currency" : "BGN"
+	},
+	{
+		"Average balance" : 4781.12,
+		"SUM balance" : 4781.12,
+		"currency" : "MYR"
+	},
+	{
+		"Average balance" : 15017.34,
+		"SUM balance" : 5005.78,
+		"currency" : "CUP"
+	},
+	{
+		"Average balance" : 14560.99,
+		"SUM balance" : 4853.663333333333,
+		"currency" : "MGA"
+	},
+	{
+		"Average balance" : 24609.33,
+		"SUM balance" : 4921.866,
+		"currency" : "AMD"
+	},
+	{
+		"Average balance" : 17882.05,
+		"SUM balance" : 5960.683333333333,
+		"currency" : "XOF"
+	},
+	{
+		"Average balance" : 5286.68,
+		"SUM balance" : 5286.68,
+		"currency" : "SRD"
+	},
+	{
+		"Average balance" : 40471.840000000004,
+		"SUM balance" : 5058.9800000000005,
+		"currency" : "UAH"
+	},
+	{
+		"Average balance" : 5792.26,
+		"SUM balance" : 5792.26,
+		"currency" : "NPR"
+	},
+	{
+		"Average balance" : 5436.11,
+		"SUM balance" : 5436.11,
+		"currency" : "ETB"
+	},
+	{
+		"Average balance" : 4076.29,
+		"SUM balance" : 4076.29,
+		"currency" : "BWP"
+	},
+	{
+		"Average balance" : 12228.8,
+		"SUM balance" : 6114.4,
+		"currency" : "CDF"
+	},
+	{
+		"Average balance" : 5328.46,
+		"SUM balance" : 5328.46,
+		"currency" : "NZD"
+	},
+	{
+		"Average balance" : 24354.82,
+		"SUM balance" : 4870.964,
+		"currency" : "HRK"
+	},
+	{
+		"Average balance" : 18644.94,
+		"SUM balance" : 4661.235,
+		"currency" : "PEN"
+	},
+	{
+		"Average balance" : 14094.66,
+		"SUM balance" : 4698.22,
+		"currency" : "XAF"
+	},
+	{
+		"Average balance" : 90770.78,
+		"SUM balance" : 5042.821111111111,
+		"currency" : "PLN"
+	},
+	{
+		"Average balance" : 4269.39,
+		"SUM balance" : 4269.39,
+		"currency" : "IQD"
+	},
+	{
+		"Average balance" : 74680.98,
+		"SUM balance" : 4978.732,
+		"currency" : "USD"
+	},
+	{
+		"Average balance" : 4773.66,
+		"SUM balance" : 4773.66,
+		"currency" : "NOK"
+	},
+	{
+		"Average balance" : 49632.020000000004,
+		"SUM balance" : 4512.001818181819,
+		"currency" : "BRL"
+	},
+	{
+		"Average balance" : 37156.42,
+		"SUM balance" : 4644.5525,
+		"currency" : "CZK"
+	},
+	{
+		"Average balance" : 3573.03,
+		"SUM balance" : 3573.03,
+		"currency" : "UZS"
+	},
+	{
+		"Average balance" : 19746.73,
+		"SUM balance" : 4936.6825,
+		"currency" : "COP"
+	},
+	{
+		"Average balance" : 323922.59,
+		"SUM balance" : 4907.918030303031,
+		"currency" : "IDR"
+	},
+	{
+		"Average balance" : 8764.99,
+		"SUM balance" : 4382.495,
+		"currency" : "LYD"
+	},
+	{
+		"Average balance" : 5263.3,
+		"SUM balance" : 5263.3,
+		"currency" : "BOB"
+	},
+	{
+		"Average balance" : 4316.41,
+		"SUM balance" : 4316.41,
+		"currency" : "ISK"
+	},
+	{
+		"Average balance" : 60944.74,
+		"SUM balance" : 5078.7283333333335,
+		"currency" : "JPY"
+	},
+	{
+		"Average balance" : 21715.61,
+		"SUM balance" : 5428.9025,
+		"currency" : "MNT"
+	},
+	{
+		"Average balance" : 119749.15,
+		"SUM balance" : 4989.547916666666,
+		"currency" : "RUB"
+	},
+	{
+		"Average balance" : 5095.79,
+		"SUM balance" : 5095.79,
+		"currency" : "BYR"
+	},
+	{
+		"Average balance" : 3760.89,
+		"SUM balance" : 3760.89,
+		"currency" : "KYD"
+	},
+	{
+		"Average balance" : 11790.92,
+		"SUM balance" : 3930.306666666667,
+		"currency" : "ZAR"
+	},
+	{
+		"Average balance" : 4632.88,
+		"SUM balance" : 4632.88,
+		"currency" : "RWF"
+	},
+	{
+		"Average balance" : 3325.48,
+		"SUM balance" : 3325.48,
+		"currency" : "ALL"
+	},
+	{
+		"Average balance" : 50229,
+		"SUM balance" : 5022.9,
+		"currency" : "MXN"
+	},
+	{
+		"Average balance" : 26504.239999999998,
+		"SUM balance" : 4417.373333333333,
+		"currency" : "IRR"
+	},
+	{
+		"Average balance" : 5806.3,
+		"SUM balance" : 5806.3,
+		"currency" : "GTQ"
+	},
+	{
+		"Average balance" : 23021.96,
+		"SUM balance" : 4604.392,
+		"currency" : "THB"
+	},
+	{
+		"Average balance" : 470700.38,
+		"SUM balance" : 4954.740842105263,
+		"currency" : "CNY"
+	},
+	{
+		"Average balance" : 3574.42,
+		"SUM balance" : 3574.42,
+		"currency" : "MWK"
+	},
+	{
+		"Average balance" : 4087.71,
+		"SUM balance" : 4087.71,
+		"currency" : "TJS"
+	},
+	{
+		"Average balance" : 36160.26,
+		"SUM balance" : 4520.0325,
+		"currency" : "VND"
+	},
+	{
+		"Average balance" : 118606.28,
+		"SUM balance" : 4941.928333333333,
+		"currency" : "PHP"
+	},
+	{
+		"Average balance" : 4629.42,
+		"SUM balance" : 4629.42,
+		"currency" : "MMK"
+	},
+	{
+		"Average balance" : 70840.19,
+		"SUM balance" : 5060.013571428572,
+		"currency" : "SEK"
+	},
+	{
+		"Average balance" : 16514.59,
+		"SUM balance" : 5504.863333333334,
+		"currency" : "HNL"
+	},
+	{
+		"Average balance" : 245091.47,
+		"SUM balance" : 4901.8294,
+		"currency" : "EUR"
+	},
+	{
+		"Average balance" : 16755.49,
+		"SUM balance" : 5585.163333333334,
+		"currency" : "AFN"
+	},
+	{
+		"Average balance" : 18938,
+		"SUM balance" : 4734.5,
+		"currency" : "PKR"
+	},
+	{
+		"Average balance" : 20674.739999999998,
+		"SUM balance" : 5168.6849999999995,
+		"currency" : "DOP"
+	},
+	{
+		"Average balance" : 7052.370000000001,
+		"SUM balance" : 3526.1850000000004,
+		"currency" : "TZS"
+	},
+	{
+		"Average balance" : 5792.17,
+		"SUM balance" : 5792.17,
+		"currency" : "ZWL"
+	},
+	{
+		"Average balance" : 16295.49,
+		"SUM balance" : 5431.83,
+		"currency" : "ILS"
+	},
+	{
+		"Average balance" : 58375.6,
+		"SUM balance" : 5306.872727272727,
+		"currency" : "CAD"
+	},
+	{
+		"Average balance" : 6149.19,
+		"SUM balance" : 6149.19,
+		"currency" : "GBP"
+	},
+	{
+		"Average balance" : 3818.85,
+		"SUM balance" : 3818.85,
+		"currency" : "MAD"
+	},
+	{
+		"Average balance" : 3835.05,
+		"SUM balance" : 3835.05,
+		"currency" : "MKD"
+	},
+	{
+		"Average balance" : 8333.28,
+		"SUM balance" : 4166.64,
+		"currency" : "VEF"
+	}
+]
