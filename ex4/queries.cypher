@@ -37,7 +37,6 @@ WITH p, REDUCE(a = 0, n IN [x IN NODES(p) WHERE 'Flight' IN LABELS(x)] |
 RETURN p, price
 ORDER BY price ASC LIMIT 1
 
-
 8.
 MATCH p = (lax:Airport {name:"LAX"})<-[relation:ORIGIN|DESTINATION*..10]->(dayton:Airport {name: "DAY"})
 WITH p, REDUCE(a = 0, n IN [x IN NODES(p) WHERE 'Flight' IN LABELS(x)] |
