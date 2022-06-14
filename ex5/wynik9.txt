@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt9kUXEeIpTImMfK8Clc9g5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15568>; rel="up"
+Last-Modified: Tue, 14 Jun 2022 19:05:22 GMT
+ETag: "cqcZmQ1nk1ATztDLCPPVP"
+Date: Tue, 14 Jun 2022 19:07:58 GMT
+Content-Type: application/json
+Content-Length: 25
+
+{"manufacturer": "Razer"}

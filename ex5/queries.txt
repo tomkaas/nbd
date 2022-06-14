@@ -1,0 +1,33 @@
+1.
+curl -XPOST -H "Content-Type: application/json" -d '{"manufacturer": "Dell", "model": "P88G", "price": 5200, "works": true}' -i http://localhost:8098/buckets/s15568/keys/laptop1
+curl -XPOST -H "Content-Type: application/json" -d '{"manufacturer": "Apple", "model": "M1", "price": 8000, "works": false}' -i http://localhost:8098/buckets/s15568/keys/laptop2
+curl -XPOST -H "Content-Type: application/json" -d '{"manufacturer": "HP", "model": "Pavilion", "price": 4000, "works": true}' -i http://localhost:8098/buckets/s15568/keys/laptop3
+curl -XPOST -H "Content-Type: application/json" -d '{"manufacturer": "Acer", "model": "Nitro", "price": 3000, "works": true}' -i http://localhost:8098/buckets/s15568/keys/laptop4
+curl -XPOST -H "Content-Type: application/json" -d '{"manufacturer": "Lenovo", "model": "T14", "price": 6000, "works": false}' -i http://localhost:8098/buckets/s15568/keys/laptop5
+
+2.
+curl -XGET -i http://localhost:8098/buckets/s15568/keys/laptop2
+
+3.
+curl -XPUT -H "Content-Type: application/json" -d '{"manufacturer": "Acer", "model": "Nitro", "price": 3000, "works": true, "colour": "black"}' -i http://localhost:8098/buckets/s15568/keys/laptop4
+
+4.
+curl -XPUT -H "Content-Type: application/json" -d '{"manufacturer": "Acer", "model": "Nitro", "price": 3000, "works": true}' -i http://localhost:8098/buckets/s15568/keys/laptop4
+
+5.
+curl -XPUT -H "Content-Type: application/json" -d '{"manufacturer": "Lenovo", "model": "T14", "price": 6000, "works": true}' -i http://localhost:8098/buckets/s15568/keys/laptop5
+
+6.
+curl -XDELETE -i http://localhost:8098/buckets/s15568/keys/laptop3
+
+7.
+curl -XGET -i http://localhost:8098/buckets/s15568/keys/laptop3
+
+8.
+curl -XPOST -H "Content-Type: application/json" -d '{"manufacturer": "Razer"}' -i http://localhost:8098/buckets/s15568/keys/
+
+9.
+curl -XGET -i http://localhost:8098/buckets/s15568/keys/BfnzhejzSReSmcMT10gljUI1BC6
+
+10.
+curl -XDELETE -i http://localhost:8098/buckets/s15568/keys/BfnzhejzSReSmcMT10gljUI1BC6

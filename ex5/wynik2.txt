@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt9kta8AIpTIlMfKIBUke4cvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s15568>; rel="up"
+Last-Modified: Tue, 14 Jun 2022 18:40:26 GMT
+ETag: "2z4uMUqlReeGbJuFUTjMD"
+Date: Tue, 14 Jun 2022 18:50:39 GMT
+Content-Type: application/json
+Content-Length: 69
+
+{"manufacturer": "Apple", "model": M1, "price": 8000, "works": false}
