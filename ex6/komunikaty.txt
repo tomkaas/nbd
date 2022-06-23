@@ -1,0 +1,4 @@
+Laptop has been added
+Laptop details: {'manufacturer': 'Dell', 'model': 'P88G', 'price': 4000}
+Updated laptop details: {'manufacturer': 'Dell', 'model': 'P87G', 'price': 4000}
+Deleted laptop: None
